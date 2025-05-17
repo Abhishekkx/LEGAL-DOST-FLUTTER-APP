@@ -1,2 +1,16 @@
-# LEGAL-DOST-FLUTTER-APP
-Legal Dost is an innovative legal tech platform designed to empower students, citizens, and law professionals by providing accessible, affordable legal support through a comprehensive Android app. Founded by Abhishek Kumar, Legal Dost bridges the gap in the fragmented legal tech landscape by integrating legal information, AI-driven guidance, case management, and lawyer connections into a single, user-friendly solution. Built with Flutter and Firebase, the app aims to transform legal access in India with plans for global expansion. Problem Statement Access to legal support is often fragmented, with existing apps offering limited features like news updates, static law information, or basic AI assistance. This leaves victims, students, and citizens without a unified platform to address legal queries, connect with verified lawyers, or streamline processes like e-FIR filing. Legal Dost solves this by offering an all-in-one solution that combines essential legal tools and services.
+# legal_dost
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

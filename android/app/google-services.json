@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41565791110",
+    "project_id": "legaldost-3aa6d",
+    "storage_bucket": "legaldost-3aa6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41565791110:android:2d461045c2b1bcb2da0207",
+        "android_client_info": {
+          "package_name": "com.example.legal_dost"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsGOOFy6PmCvisjT9WKRC1M62GLsdRzD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
